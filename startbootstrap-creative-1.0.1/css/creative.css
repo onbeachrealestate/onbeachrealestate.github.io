@@ -474,3 +474,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.img-responsive{
+    width: 480px;
+    height: 258px;
+}
